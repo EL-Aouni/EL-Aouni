@@ -19,13 +19,11 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.svg
-          theme: dark
-          base: header, activity, community, repositories, metadata
+          template: terminal
+          base: header, activity
           config_timezone: Africa/Casablanca
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 6
           plugin_languages_colors: github
-          plugin_languages_limit: 8
           plugin_lines: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
