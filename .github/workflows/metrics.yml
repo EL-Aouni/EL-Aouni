@@ -27,3 +27,6 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_colors: github
           plugin_lines: yes
+          extras_css: |
+            body { background: #0d1117 !important; }
+            * { color: #00ff41 !important; }
