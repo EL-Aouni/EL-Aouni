@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slant&color=0:0d1117,100:00ff41&height=200&section=header&text=EL-AOUNI&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker&descAlignY=58&descSize=18" width="100%"/>
+```
+ ███████╗██╗       █████╗  ██████╗ ██╗   ██╗███╗   ██╗██╗
+ ██╔════╝██║      ██╔══██╗██╔═══██╗██║   ██║████╗  ██║██║
+ █████╗  ██║█████╗███████║██║   ██║██║   ██║██╔██╗ ██║██║
+ ██╔══╝  ██║╚════╝██╔══██║██║   ██║██║   ██║██║╚██╗██║██║
+ ███████╗███████╗ ██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║██║
+ ╚══════╝╚══════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+whoami;%3E+cybersecurity+engineering+student;%3E+network+security+%7C+ethical+hacking;%3E+pwn+first%2C+patch+later;%3E+sudo+access+granted..." alt="Typing SVG" />
 
@@ -156,9 +163,11 @@ fun_fact:      "I analyze packets almost as fast as I finish mint tea ☕"
 <img src="https://github-readme-stats.vercel.app/api?username=EL-Aouni&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-Aouni&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="41%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EL-Aouni&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=EL-Aouni&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="60%"/>
 
 </div>
+
+> **Note:** the stats and trophy cards below run on shared free Vercel hosting and can occasionally fail to load or return a broken image on first try — this is a known upstream issue, not a problem with your README. If a card doesn't render, right-click → "Reload image", or wait a minute and refresh the page.
 
 <details>
 <summary><b>🏆 Trophy Case</b></summary>
