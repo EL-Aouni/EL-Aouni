@@ -21,10 +21,10 @@
 ```
 
 ```yaml
-name:          EL-Aouni
+name:          EL-Aouni Mohammed
 role:          Cybersecurity Engineering Student
 location:      Morocco
-focus:         Network Security | Ethical Hacking | Secure Dev
+focus:         Network Security | Ethical Hacking | Secure Dev 
 status:        [ONLINE] currently building & breaking things
 fun_fact:      "I analyze packets almost as fast as I finish mint tea ☕"
 ```
@@ -107,9 +107,34 @@ fun_fact:      "I analyze packets almost as fast as I finish mint tea ☕"
 <tr>
 <td width="50%" valign="top">
 
+**🔍 SosNetScanner**
+```
+> production-grade pentesting toolkit
+> with network scanning capabilities
+> stack: Python
+```
+[`→ view repo`](https://github.com/EL-Aouni/SosNetScanner)
+
+</td>
+<td width="50%" valign="top">
+
+**🕵️ Recon_framework**
+```
+> production-grade recon framework
+> stack: Python
+> [private repo]
+```
+`→ private — link visible to collaborators only`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **🎓 it-internships-morocco**
 ```
-> IT internship search platform for Morocco
+> IT internship search platform
+> for Morocco
 > stack: TypeScript
 ```
 [`→ view repo`](https://github.com/EL-Aouni/it-internships-morocco)
@@ -117,34 +142,13 @@ fun_fact:      "I analyze packets almost as fast as I finish mint tea ☕"
 </td>
 <td width="50%" valign="top">
 
-**🛡️ vuln-scanner**
+**⚡ EpicScanningTool**
 ```
-> tell me your repo name/description
-> and I'll fill this in
+> scanning tool
+> stack: Python
+> [private repo]
 ```
-`→ awaiting repo name`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌐 enterprise-net-topology**
-```
-> tell me your repo name/description
-> and I'll fill this in
-```
-`→ awaiting repo name`
-
-</td>
-<td width="50%" valign="top">
-
-**🚩 ctf-writeups**
-```
-> tell me your repo name/description
-> and I'll fill this in
-```
-`→ awaiting repo name`
+`→ private — link visible to collaborators only`
 
 </td>
 </tr>
@@ -156,7 +160,7 @@ fun_fact:      "I analyze packets almost as fast as I finish mint tea ☕"
 
 <div align="center">
 
-<img src="./metrics.svg" width="100%" alt="GitHub metrics"/>
+<img src="./metrics.svg" width="650" alt="GitHub metrics"/>
 
 </div>
 
@@ -168,9 +172,7 @@ fun_fact:      "I analyze packets almost as fast as I finish mint tea ☕"
 
 ### `>_` Contribution Snake
 
-<img src="https://raw.githubusercontent.com/EL-Aouni/EL-Aouni/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-*(this animates automatically once the GitHub Action below is set up — see instructions)*
+<img src="./snake.svg" width="100%"/>
 
 </div>
 
