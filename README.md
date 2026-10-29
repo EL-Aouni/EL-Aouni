@@ -175,9 +175,9 @@ fun_fact:      "I analyze packets almost as fast as I finish mint tea ☕"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:your@email.com)
-[![X](https://img.shields.io/badge/-X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](www.linkedin.com/in/el-aouni-mohammed-662469318)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mohamed01elaouni@gmail.com)
+[![X](https://img.shields.io/badge/-X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/)
 
 <br>
 
